@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ranvirsharma1611/DSAques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ranvirsharma1611/DSAques/tree/master/0067-add-binary) |
+| [2235-add-two-integers](https://github.com/ranvirsharma1611/DSAques/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
